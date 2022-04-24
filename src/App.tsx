@@ -1,8 +1,6 @@
-import React from "react";
-import logo from "./logo.svg";
+/** @jsxImportSource @emotion/react */
 import "./App.css";
-import { jsx } from "@emotion/react";
-import { css } from "@emotion/react";
+
 function App() {
   return <div css={{ color: "red" }}>Hello</div>;
 }
